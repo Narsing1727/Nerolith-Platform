@@ -310,7 +310,7 @@ The engine reruns from the current timestep — updated flood maps reach field o
 <table align="center">
 <tr>
 <td align="center" width="170">
-<h2>292×</h2>
+<h2>1.8×</h2>
 <sub>batch scenario speedup<br/>vs full physics</sub>
 </td>
 <td align="center" width="170">
