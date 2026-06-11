@@ -1,0 +1,159 @@
+# ── Python ───────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# ── Virtual environments ──────────────────────────────────
+venv/
+.venv/
+env/
+.env/
+
+# ── Environment files (API keys, secrets) ────────────────
+.env
+.env.*
+*.env
+!.env.example
+
+# ── ML Models (large files) ──────────────────────────────
+*.onnx
+*.pt
+*.pth
+*.pkl
+*.h5
+*.keras
+output/models/
+NeroSurrogate/output/models/
+NeroSurrogate/output/datasets/
+NeroSurrogate/logs/
+
+# ── Raw data and processed grids ─────────────────────────
+*.bin
+data/raw/
+data/processed/
+NeroSurrogate/data/raw/
+NeroSurrogate/data/processed/
+
+# ── GIS and raster data ───────────────────────────────────
+*.tif
+*.tiff
+*.asc
+*.dem
+*.shp
+*.dbf
+*.prj
+*.shx
+*.gpkg
+
+# ── Qt build artifacts ────────────────────────────────────
+build/
+*.exe
+*.dll
+*.obj
+*.o
+*.a
+*.lib
+*.pdb
+*.ilk
+*.exp
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.pro.user
+*.qmlc
+*.jsc
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+.qmake.stash
+
+# ── Qt Designer backup files ──────────────────────────────
+*.bak
+
+# ── Visual Studio ─────────────────────────────────────────
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vcxproj.filters
+x64/
+x86/
+Debug/
+Release/
+
+# ── Node.js (Web frontend) ────────────────────────────────
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnp/
+.pnp.js
+dist/
+.next/
+.nuxt/
+.output/
+
+# ── Azure / Cloud ─────────────────────────────────────────
+*_sas*
+*sas_token*
+azure_credentials*
+
+# ── Logs ──────────────────────────────────────────────────
+logs/
+*.log
+*.log.*
+flood_ai.log
+training.csv
+
+# ── Cache files ───────────────────────────────────────────
+cache/
+*.cache
+roads_cache.json
+buildings_cache.json
+last_dem.bin
+last_flood.bin
+
+# ── Jupyter ───────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb
+
+# ── OS files ──────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# ── CSV outputs ───────────────────────────────────────────
+flood_depth.csv
+dem.csv
+error_grid.csv
+flood_ml_dataset.csv
+ml_flood_cpp.csv
+
+# ── Temp files ────────────────────────────────────────────
+*.tmp
+*.temp
+*.swp
+~$*
+
+# ── PDF reports (generated, not source) ──────────────────
+*_report.pdf
+surrogate_batch_report.pdf
+cascade_report.pdf
+
+# ── Images (generated outputs) ───────────────────────────
+risk_map.png
+speed_comparison.png
+
+# ── Terrain graph cache ───────────────────────────────────
+graph/terrain_graph.json
+output/graph/
