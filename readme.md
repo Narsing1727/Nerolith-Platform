@@ -480,17 +480,13 @@ npm install && npm start
 <br/>
 
 <!-- ░░░ OPTIONAL: small logo again ░░░ -->
-<img src="[[LOGO_PATH_HERE]]" alt="Nerolith" width="60"/>
+<img src="https://www.dropbox.com/scl/fi/uik9x0zavb0aoqkn5dpkt/WhatsApp-Image-2026-06-11-at-5.14.02-PM.jpeg?rlkey=0m6gtbbh0014vg7d9l3gmalz1&st=urdqtjxs&raw=1" alt="Nerolith" width="60"/>
 
 <h3>NEROLITH</h3>
 
-<sub>
-<strong>Narsing Sharma</strong> · Department of Civil Engineering · Indian Institute of Technology Roorkee<br/>
-<em>2025 · Internal Technical Document · v4.2.1 · Confidential</em>
-</sub>
+
 
 <br/><br/>
 
-<sub>From 72-hour precognition, through active response, to post-event triage —<br/>India's first end-to-end flood intelligence operating system.</sub>
 
 </div>
