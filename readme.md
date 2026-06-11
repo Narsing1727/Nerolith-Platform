@@ -318,8 +318,8 @@ The engine reruns from the current timestep — updated flood maps reach field o
 <sub>validation IoU<br/>held-out test set</sub>
 </td>
 <td align="center" width="170">
-<h2>~15s</h2>
-<sub>100 rainfall scenarios<br/>vs 1.2 hrs physics</sub>
+<h2>~14s</h2>
+<sub>100 rainfall scenarios<br/>vs 26s physics</sub>
 </td>
 <td align="center" width="170">
 <h2>&lt;5min</h2>
@@ -332,7 +332,7 @@ The engine reruns from the current timestep — updated flood maps reach field o
 
 ---
 
-## ◆ vs The Industry
+## nerolith vs The Industry
 
 <table>
 <thead>
