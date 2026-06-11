@@ -6,12 +6,12 @@
 
 <!-- ░░░ REPLACE WITH YOUR LOGO ░░░ -->
 <!-- Put your logo at: docs/assets/nerolith_logo.png  then the line below works -->
-<img src="[[LOGO_PATH_HERE]]" alt="Nerolith" width="160"/>
+<img src="https://www.dropbox.com/scl/fi/uik9x0zavb0aoqkn5dpkt/WhatsApp-Image-2026-06-11-at-5.14.02-PM.jpeg?rlkey=0m6gtbbh0014vg7d9l3gmalz1&st=urdqtjxs&raw=1" alt="Nerolith" width="160"/>
 
 <br/>
 
 <!-- Big wordmark — uses an SVG text banner. Replace with a banner image if you have one -->
-<img src="[[WORDMARK_BANNER_PATH_HERE]]" alt="NEROLITH" width="620"/>
+<img src="https://www.dropbox.com/scl/fi/rcsrrryat4irul4x6vqcc/ChatGPT-Image-Jun-11-2026-05_13_40-PM.png?rlkey=c11aq5jbay2bhmgsu6kil0674&st=wpcu0b44&raw=1" alt="NEROLITH" width="620"/>
 
 <h3>India's first end-to-end Flood Intelligence Operating System</h3>
 
@@ -303,7 +303,7 @@ The engine reruns from the current timestep — updated flood maps reach field o
 ### NeroSurrogate · Physics vs ML Performance
 
 <!-- ░░░ REPLACE WITH YOUR GRAPH ░░░  docs/assets/speed_comparison.png -->
-<img src="[[SPEED_GRAPH_PATH_HERE]]" alt="Speed comparison" width="760"/>
+<img src="https://www.dropbox.com/scl/fi/edop4mbf5ndzw8p14nqwh/Screenshot-2026-06-11-172101.png?rlkey=h9z7s29f1i6gslci0z85l83dw&st=i5f4chke&raw=1" alt="Speed comparison" width="760"/>
 
 </div>
 
